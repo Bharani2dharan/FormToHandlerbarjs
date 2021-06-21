@@ -1,4 +1,4 @@
-# FormToHandlerbarjs
+# FormToHandlebarjs
 
 Overview -> Collecting data from input form and post the data into Handlerbar js(HTML Template) using React Js, its just a model program for the reference of React js with Handlerbar js.
 

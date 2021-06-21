@@ -1,0 +1,27 @@
+body {
+ background-color:rgb(253, 255, 253) ;
+
+}
+
+.task-name{
+  cursor: pointer;
+}
+
+.completed-task{
+  text-decoration: line-through;
+}
+
+.container-inside{
+  align-items: center;
+  padding-top: 5%;
+}
+.formStyle{
+  background-color:rgb(226, 231, 226) ;
+  Border-style: solid;
+  display: inline-block;
+  padding-top:  3%;
+  padding-bottom:  3%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
